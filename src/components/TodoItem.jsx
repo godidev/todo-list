@@ -1,3 +1,8 @@
 export default function TodoItem({ todo }) {
-  return <div>{todo.name}</div>
+  return (
+    <div>
+      <h3>{todo.name}</h3>
+      <p>{todo.description}</p>
+    </div>
+  )
 }

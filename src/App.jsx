@@ -8,7 +8,12 @@ function App() {
 
   return (
     <>
-      <TodoList todos={todos} />
+      <header>
+        <h1>Todo List</h1>
+      </header>
+      <main>
+        <TodoList todos={todos} />
+      </main>
     </>
   )
 }
