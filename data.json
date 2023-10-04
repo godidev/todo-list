@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Buy groceries",
+    "description": "Go to the supermarket and buy groceries and cleaning supplies.",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "name": "Exercise",
+    "description": "Go to the gym and do a 30-minute workout.",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "name": "Study for the exam",
+    "description": "Review the notes and do practice exercises for the math exam.",
+    "completed": false
+  }
+]
